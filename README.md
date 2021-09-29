@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @algorithmicjason (JASON HERRERA)
 - 👀 I’m interested in software development, sports, and outdoor physical activies.
-- 🌱 I’m currently working on making my first live website.
+- 🌱 I’m currently working on react projects.
 - 💞️ I’m looking to collaborate with any team who makes me feel heard.
 - 📫 How to reach me => algorithmicjason@gmail.com
 
